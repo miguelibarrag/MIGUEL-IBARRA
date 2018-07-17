@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CAD_W_CUBE", "CAD_W_CUBE\CAD_W_CUBE.dwproj", "{52F3CF01-B367-4621-A7D8-D44B4899BA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F3CF01-B367-4621-A7D8-D44B4899BA4A}.Development|Default.ActiveCfg = Development
+		{52F3CF01-B367-4621-A7D8-D44B4899BA4A}.Development|Default.Build.0 = Development
+		{52F3CF01-B367-4621-A7D8-D44B4899BA4A}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E107E2EF-5B3D-4C04-B339-4F95FADD1999}
+	EndGlobalSection
+EndGlobal
